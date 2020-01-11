@@ -1,0 +1,7 @@
+vue仓库：npm install vuex --S
+element-ui：npm i element-ui -S 
+npm i --save axios
+echarts：npm i echarts -S
+富文本：npm install @tinymce/tinymce-vue -S
+已经配置代理：vue.config.js
+el-tree渲染：role_menu.js
